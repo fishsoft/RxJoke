@@ -2,7 +2,7 @@
 
 ----------
 
-RxJoke是一个基于Rxjava,Retrofit,Dagger2和Mvp设计的一款App。
+RxJoke是一个基于Rxjava,Retrofit,Dagger2和Mvp设计的一款App。demo修改自[JDDJJ](https://github.com/JDDJJ/RxJoke)的demo，JDDJJ的demo未使用到Dagger2，本人觉得有必要进行修改，如果侵权之嫌，敬请见谅。
 
 [More info!](http://www.jianshu.com/p/9430eca553a5 "More info")
 
